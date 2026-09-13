@@ -4,7 +4,7 @@
 
 ### An opinionated Arch-based Linux distribution.
 
-<img src="assets/dexterity-logo.svg" width="180">
+<img src="assets/dexterity-logo.png" width="180">
 
 Fast. Flexible. Yours.
 
