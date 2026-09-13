@@ -68,7 +68,12 @@ the foundation of the DexterityOS ecosystem.
 
 <img width="1280" height="800" alt="VirtualBox_Dexterity_13_09_2026_00_14_51" src="https://github.com/user-attachments/assets/68a281f8-2b3a-43d2-b597-5e9d7b8ea210" />
 
-Screenshot taken at 13/09/2026 from Virtual Box, pre-alpha build with local fastfetch.
+Screenshot taken on 13/09/2026, at 00:14, from Virtual Box, pre-alpha build with local fastfetch.
+
+<img width="1280" height="800" alt="VirtualBox_Dexterity_13_09_2026_12_20_47" src="https://github.com/user-attachments/assets/80769233-9761-4776-a7eb-eb496306ab0e" />
+
+Screenshot taken on 13/09/2026, at 12:22, from Virtual Box, alpha build with redesigned fastfetch.
+
 ---
 
 ## 📦 Installation
