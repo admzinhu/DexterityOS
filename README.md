@@ -40,7 +40,7 @@ ecosystem underneath.
 
 ## 🚧 Development status
 
-DexterityOS is currently **under active development (Pre-alpha)**.
+DexterityOS is currently **under active development (Alpha)**.
 
 ### Current milestone
 
@@ -48,6 +48,8 @@ DexterityOS is currently **under active development (Pre-alpha)**.
 
 The first public release is planned to establish
 the foundation of the DexterityOS ecosystem.
+
+DexterityOS is currently being developed on a Samsung Expert x550 Notebook (i5-8265u, 8GB RAM)
 
 ---
 
