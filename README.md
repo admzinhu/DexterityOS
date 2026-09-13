@@ -1,21 +1,105 @@
-# DexterityOS - Such another Arch-based distro
+<div align="center">
 
-Another opinionated Arch-based distro, made by me, with my ideas.
+# DexterityOS
 
-Hello, I am admzinhu, a beginner solo developer, and I want to make my own Linux distro.
+### An opinionated Arch-based Linux distribution.
 
-I am tired of modifying other systems to make them look like they are mine. Not because other distros are bad, but because I want to put my own ideas into the core of the system.
+<img src="assets/dexterity-logo.svg" width="180">
 
-Dexterity was the name I chose. Do you know why? Because this system is meant to be fast, to have dexterity in everything, to work well on low-end hardware with high performance, and to make the system feel like it is truly yours.
+Fast. Flexible. Yours.
 
-You can do whatever you want with DexterityOS. You can play games, work with documents, run heavy software — everything will be there as it should be.
+</div>
 
-I am still developing it. I started building it on 03/09/2026 (September 3, 2026), so stay tuned for more news.
+---
 
-DexterityOS versions and builds will be given astronomical codenames. The first version, DexterityOS 1.0, will be codenamed "Sun", just like Linux Mint and its female codenames.
+## What is DexterityOS?
 
-So, got it? The first release will be DexterityOS 1.0 "Sun".
+DexterityOS is an independent Arch-based Linux distribution
+built around performance, flexibility and simplicity.
 
-Send me a DM if you want to suggest modifications to the system.
+It is designed to work well on both older hardware and
+more powerful systems, while keeping the familiar Arch
+ecosystem underneath.
 
-<img width="519" height="550" alt="lv_0_20260903192114" src="https://github.com/user-attachments/assets/d5898bea-e473-4c33-9702-ccb9d9fcb106" />
+> **The goal is simple:**
+> make Linux feel like *your* system.
+
+---
+
+## ✦ Features
+
+- ⚡ Performance-focused
+- 🪶 Designed to scale from old hardware to powerful PCs
+- 🛠️ Arch-based
+- 🔒 Privacy-conscious
+- 🖥️ Flexible desktop environment selection
+- 📦 Familiar `pacman` ecosystem
+- 🧩 Dexterity utilities and tools
+
+---
+
+## 🚧 Development status
+
+DexterityOS is currently **under active development**.
+
+### Current milestone
+
+**1.0 — Sun** ☀️
+
+The first public release is planned to establish
+the foundation of the DexterityOS ecosystem.
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Basic system identity
+- [x] DexterityOS branding
+- [x] Custom Fastfetch logo
+- [ ] Installer
+- [ ] Dexterity utilities
+- [ ] First bootable ISO
+- [ ] Hardware testing
+- [ ] First release
+
+---
+
+## 🖥️ Screenshots
+
+<!-- screenshots here -->
+
+---
+
+## 📦 Installation
+
+> DexterityOS is not ready for general installation yet.
+
+Installation instructions will be published when the
+first release is available.
+
+---
+
+## 🤝 Contributing
+
+DexterityOS is currently developed primarily by
+**@admzinhu**.
+
+Suggestions, testing and contributions will be welcome
+as the project matures.
+
+---
+
+## 📜 License
+
+DexterityOS is licensed under the
+**GNU General Public License v3.0**.
+
+---
+
+<div align="center">
+
+**DexterityOS**
+
+*Made with Linux and a lot of terminal commands.*
+
+</div>
