@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# DexterityOS - Dex
+# A simple frontend/wrapper for pacman
+
+if [[ "$1" == "help" ]]; then
+    cat <<'EOF'
+DexterityOS Package Helper
+
+Usage:
+  dex [pacman options]
+
+Dex is a frontend for pacman.
+All pacman options are supported.
+
+Examples:
+  dex -S <package>        Install a package
+  dex -R <package>        Remove a package
+  dex -Rns <package>      Remove package and dependencies
+  dex -Syu                Update the system
+  dex -Ss <package>       Search for packages
+  dex -Si <package>       Show package information
+  dex -Q                  List installed packages
+  dex -Qi <package>      Show installed package information
+  dex -Ql <package>      List files installed by a package
+  dex -Qo <file>         Find the package owning a file
+  dex -U <package>       Install a local package
+  dex -F <file>          Query package files
+  dex -T                 Check dependencies
+  dex -V                 Show pacman version
+  dex -h                 Show pacman help
+
+For the complete pacman documentation:
+  man pacman
+EOF
+    exit 0
+fi
+
+exec sudo pacman "$@"
