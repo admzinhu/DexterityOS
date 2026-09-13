@@ -14,7 +14,7 @@ Meant to be fast, flexible and powerful.
 
 ## What is DexterityOS?
 
-DexterityOS is an independent Arch-based Linux distribution
+DexterityOS is an Arch-based Linux distribution
 built around performance, flexibility and simplicity.
 
 It is designed to work well on both older hardware and
