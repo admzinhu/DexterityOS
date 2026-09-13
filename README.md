@@ -6,7 +6,7 @@
 
 <img src="assets/dexterity-logo.png" width="180">
 
-Fast. Flexible. Yours.
+Meant to be fast, flexible and powerful.
 
 </div>
 
@@ -33,18 +33,18 @@ ecosystem underneath.
 - 🛠️ Arch-based
 - 🔒 Privacy-conscious
 - 🖥️ Flexible desktop environment selection
-- 📦 Familiar `pacman` ecosystem
-- 🧩 Dexterity utilities and tools
+- 📦 Familiar `pacman` ecosystem, friendly for Debian/Ubuntu users.
+- 🧩 Management tool for beginners: Dex
 
 ---
 
 ## 🚧 Development status
 
-DexterityOS is currently **under active development**.
+DexterityOS is currently **under active development (Pre-alpha)**.
 
 ### Current milestone
 
-**1.0 — Sun** ☀️
+**1.0 — Sun (Not released yet)**
 
 The first public release is planned to establish
 the foundation of the DexterityOS ecosystem.
@@ -66,15 +66,16 @@ the foundation of the DexterityOS ecosystem.
 
 ## 🖥️ Screenshots
 
-<!-- screenshots here -->
+<img width="1280" height="800" alt="VirtualBox_Dexterity_13_09_2026_00_14_51" src="https://github.com/user-attachments/assets/68a281f8-2b3a-43d2-b597-5e9d7b8ea210" />
 
+Screenshot taken at 13/09/2026 from Virtual Box, pre-alpha build with local fastfetch.
 ---
 
 ## 📦 Installation
 
 > DexterityOS is not ready for general installation yet.
 
-Installation instructions will be published when the
+Installation instructions will be published on SourceForge when the
 first release is available.
 
 ---
@@ -100,6 +101,6 @@ DexterityOS is licensed under the
 
 **DexterityOS**
 
-*Made with Linux and a lot of terminal commands.*
+*Making Arch better.*
 
 </div>
